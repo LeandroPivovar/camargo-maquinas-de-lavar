@@ -30,5 +30,5 @@ Fotos ilustrativas do Unsplash, com créditos em `dist/assets/credits.md` e `dis
 ## Direção visual (Taste)
 
 *The well-kept board*: depois da hero, a página é um quadro de blocos encaixados com espaços de 8px
-(texto, fotos, número, horário), em Switzer, branco, preto e vermelho sinal. Item interativo: montador de
+(texto, fotos, número, horário), em Switzer, com verde como cor principal, branco e preto. Item interativo: montador de
 orçamento (defeito, tipo e modelo) que abre o WhatsApp, e o bloco "Aberto agora". Hero no padrão obrigatório Aroe.

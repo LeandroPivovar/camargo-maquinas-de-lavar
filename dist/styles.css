@@ -1,17 +1,17 @@
-/* Camargo's: The well-kept board (Switzer; vermelho sinal e branco) */
+/* Camargo's: The well-kept board (Switzer; verde da marca, branco e preto) */
 :root {
   --bg: #ffffff;
   --surface: #f2f2f2;
   --surface-2: #e6e6e6;
   --ink: #0a0a0a;
   --muted: #5c5c5c;
-  --accent: #d92b21;
+  --accent: #15803d;
   --accent-ink: #ffffff;
-  --accent-hover: #b8221a;
-  --focus: #d92b21;
+  --accent-hover: #116a32;
+  --focus: #15803d;
   --radius: 8px;
-  --hero-accent: #ff5a4f;
-  --mark-bg: #d92b21;
+  --hero-accent: #5ee08f;
+  --mark-bg: #15803d;
   --mark-ink: #ffffff;
   --mark-radius: 8px;
   --opt-bg: #ffffff;
@@ -201,8 +201,8 @@ section.t { padding: 24px; }
 .contact__btns { display: flex; flex-wrap: wrap; gap: 10px; margin-top: auto; }
 .t--status { grid-column: span 3; justify-content: flex-end; }
 .status__big { font-size: clamp(1.5rem, 1.2rem + 1vw, 2.2rem); font-weight: 600; letter-spacing: -0.03em; color: var(--ink) !important; line-height: 1.05; }
-.t--status.is-open .status__big::before, .t--status.is-closed .status__big::before { content: ""; display: inline-block; width: .5em; height: .5em; border-radius: 50%; margin-right: .3em; vertical-align: .1em; background: #1f9d55; }
-.t--status.is-closed .status__big::before { background: var(--accent); }
+.t--status.is-open .status__big::before, .t--status.is-closed .status__big::before { content: ""; display: inline-block; width: .5em; height: .5em; border-radius: 50%; margin-right: .3em; vertical-align: .1em; background: #15803d; }
+.t--status.is-closed .status__big::before { background: #d92b21; }
 .t--hours { grid-column: span 3; }
 .hours { margin: 0; display: flex; flex-direction: column; gap: 6px; }
 .hours div { display: flex; justify-content: space-between; gap: 12px; background: #fff; padding: 10px 12px; border-radius: 6px; }
