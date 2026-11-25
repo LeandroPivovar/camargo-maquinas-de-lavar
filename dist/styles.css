@@ -224,7 +224,8 @@ section.t { padding: 24px; }
   .t--intro, .t--action, .t--services, .t--contact { grid-column: span 12; }
   .t--rating, .t--tall, .t--photo:not(.t--tall):not(.t--g), .t--status, .t--hours { grid-column: span 6; }
   .t--how, .t--compose { grid-column: span 12; }
-  .t--gallery, .t--g { grid-column: span 6; }
+  .t--g { grid-column: span 6; }
+  .t--gallery { grid-column: span 12; }
   .t--where { grid-column: span 12; }
   .t--map { grid-column: span 12; }
   .t--intro { min-height: 300px; grid-row: auto; }

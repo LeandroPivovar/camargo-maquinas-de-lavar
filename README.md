@@ -19,13 +19,15 @@ Importar a raiz do repositório com framework **Other**. O `vercel.json` define 
 
 ## Confirmar com o cliente
 
+- Atendimento só de lavadoras de **tampa superior** (abertura em cima), conforme pedido em 25/11/2026; o site avisa que não atende abertura frontal.
+
 - Se o número (48) 98843-6202 é WhatsApp (o CRM tem só "telefone").
 - Atendimento em domicílio ou na oficina, marcas atendidas, venda de máquinas (categoria do Google) e garantia.
 - Logo e fotos reais (as fotos atuais são ilustrativas).
 
 ## Imagens
 
-Fotos ilustrativas do Unsplash, com créditos em `dist/assets/credits.md` e `dist/assets/credits.html`.
+Fotos ilustrativas do Unsplash e do Pexels (lavadoras de tampa superior), com créditos em `dist/assets/credits.md` e `dist/assets/credits.html`.
 
 ## Direção visual (Taste)
 
